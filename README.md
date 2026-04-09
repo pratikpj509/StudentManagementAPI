@@ -58,13 +58,7 @@ Client → Controller → Service → Repository → Database → Response
 
 ## 🗄️ Database Architecture
 
-![Image](https://images.openai.com/static-rsc-4/0cmG-BSODJSy_qCXHAW6sAalrYuf1sZi9JvwD17kARQrPp8U98KOIZ1JI4QYKDQfCtSCpq8I5ytoAodQw8xMUbAv7jlXIQw9_XYykClC1w2iMKj93cJCQ0wT7829JIZJRqUOW0q_c6qQEpL_s2W-7WS5TLE921v8G9-zPos1hXR2w65jwYrHq6D6mRsJeL_T?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/F0aoVoLCFT770T1cl03oaegvhcpPu0ivnEh36mIlKsLHG_9eO2lbgea6aN_N1GVLmitAAmK-JA1DCXyCrWzrFGu6dkDpDws71n2Snf1DYi3PJv1XAzYTDUYcdJtRn6E6AEh0Q157kvpc0GPW9qQEnhAMkCeDqKgcBI0D8uMWteeHz63p5FjLtj1FA3e-ljPO?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/iZPuud8ObcCYk_og91oxbT64ljFg8HRcGRJru7JgcGg_zdPo04OKjiZyA7VpBwbwdi8Oj81mZqfRZvAeNZcSEl0pEHHVKAf4b4mWj9uCJ-GPKpc19CtCXZUPR1pAI6uUOGwruilW6vBl3TUsMzJmfGKnXqTSHAMKRG_7JKaHx5QoCjVsa2ED_RYEZO-liCE1?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/7l2duYdAQ9p6jZq3s-wGwRb6ucVw3JIWjJCUifT_w_X7Mpuz3XSmx3oiqOfWFnbEIITr8p7e-DPsmzF5kYGIIS1dytT-oQYOF4V5CnSXXHll-piLFgWviM5JHVNonE4U-CtBFLjmUQqgl5_K53SJTy18k6aK-UU9n7vRC23Hr0LipouVH1t8wjDQlaDjmCk9?purpose=fullsize)
 
 ### 📊 Student Table Structure:
 
