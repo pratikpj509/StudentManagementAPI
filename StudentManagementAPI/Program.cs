@@ -31,6 +31,17 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
         ValidateIssuerSigningKey = true,
         IssuerSigningKey = new SymmetricSecurityKey(key)
     };
+    options.Events = new JwtBearerEvents
+    {
+        OnMessageReceived = context =>
+        {
+            if (context.Request.Cookies.ContainsKey("jwt"))
+            {
+                context.Token = context.Request.Cookies["jwt"];
+            }
+            return Task.CompletedTask;
+        }
+    };
 });
 
 builder.Services.AddControllers();
